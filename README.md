@@ -12,7 +12,7 @@ Licensed under [CC BY-SA 4.0](LICENSE).
 
 | # | Slug | Title | Status | Suggested Reading |
 |---|------|-------|--------|-------------------|
-| — | — | *(more coming)* | — | — |
+| 01 | [session-handoff-lede-first](case-studies/01-session-handoff-lede-first.md) | Session Handoff Lede-First Redesign | Review | Start here — establishes core handoff vocabulary |
 
 Reading order: start from the top. Each entry is self-contained, but earlier
 ones tend to establish vocabulary that later ones build on.
