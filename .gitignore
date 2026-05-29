@@ -1,0 +1,45 @@
+# Editor and OS artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python (if any scripts are added later)
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Node (if any tooling is added later)
+node_modules/
+npm-debug.log*
+
+# Build output
+_site/
+dist/
+build/
+
+# Drafts and scratch
+drafts/
+scratch/
+*.draft.md
