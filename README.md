@@ -13,6 +13,7 @@ Licensed under [CC BY-SA 4.0](LICENSE).
 | # | Slug | Title | Status | Suggested Reading |
 |---|------|-------|--------|-------------------|
 | 01 | [session-handoff-lede-first](case-studies/01-session-handoff-lede-first.md) | Session Handoff Lede-First Redesign | Review | Start here — establishes core handoff vocabulary |
+| 02 | [wabash-ai-community-ai-positioning](case-studies/02-wabash-ai-community-ai-positioning.md) | Wabash.ai — The Agentic Civic Site Pattern | Review | Agent-authored civic content; independence framing as engineering constraint |
 
 Reading order: start from the top. Each entry is self-contained, but earlier
 ones tend to establish vocabulary that later ones build on.
@@ -21,7 +22,7 @@ ones tend to establish vocabulary that later ones build on.
 
 ## Authoring a New Case Study
 
-1. Copy `TEMPLATE.md` to `case-studies/NN-your-slug.md` (NN = next available number).
+1. Copy  to  (NN = next available number).
 2. Fill in every section. Short and specific beats long and vague.
 3. Add a row to the index table above.
 4. Open a PR — see [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow.
